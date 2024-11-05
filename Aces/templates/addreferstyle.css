@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    
+  }
+  
+  .containered {
+    margin-left:0px;
+    width: 80%;
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .page1 {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input, textarea {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button[type="button"], button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="button"]:hover, button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  #next-btn {
+    float: inherit;
+  }
+  
+  #prev-btn {
+    float: left;
+  }
+  
+  .parent-info {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px;
+  }
+  
+  .parent-info h4 {
+  margin-top: 0;
+  }
+  
+  .family-status {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .family-status h4 {
+    margin-top: 0;
+  }
+  
+  .financial-status {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .financial-status h4 {
+    margin-top: 0;
+  }
+  
+  .col2page {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .col2page h4 {
+    margin-top: 0;
+  }
+  
+ 
+  
+  .ParentRel {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .ParentRel h4 {
+    margin-top: 0;
+  }
+  .SiblingsRel {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .SiblingsRel h4 {
+    margin-top: 0;
+  }
+  .col2page {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .col2page h4 {
+    margin-top: 0;
+  }
+  .choices {
+    display: inline-block;
+    margin-right: 10px; /* add some space between the inputs */
+  }
+  
+  .Parent {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .Parent h4 {
+    margin-top: 0;
+  }
+
+  .sib {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+  }
+  
+  .sib h4 {
+    margin-top: 0;
+  }
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .checkbox-group input[type="checkbox"] {
+    margin-right: 10px;
+  }
+
+  .checkbox-group label {
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
